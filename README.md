@@ -46,3 +46,10 @@ then i created 2 files code.conf and code.wsgi and i put my coonigurations for v
 - https://oauth2client.readthedocs.io/en/latest/
 - https://stackoverflow.com/questions/34838443/typeerror-sequence-of-byte-string-values-expected-value-of-type-str-found
 - https://www.youtube.com/watch?v=Ta7HAvu-GPs
+
+### References:
+
+- UFW docs: https://help.ubuntu.com/community/UFW
+- How to setup PostgresQL: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
+- Flask app - deploy a flask app: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+- Apache enable site doc: http://manpages.ubuntu.com/manpages/bionic/man8/a2ensite.8.html
